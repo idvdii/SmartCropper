@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+~$*
+*.exe
+dist/
+build/
+set_image/*
+save_image/*
+trash_bin/*
+trash_bin_save/*
+!set_image/.gitkeep
+!save_image/.gitkeep
