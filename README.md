@@ -17,7 +17,7 @@
 ## 🛠️ 安装与运行 (Installation)
 
 ### 方式一：下载整合包 (推荐新手)
-请前往 [Releases 页面](https://github.com/idvdii/SmartCropper/releases) 下载最新的 `.exe` 整合包，解压即用。
+请前往 [Releases 页面](https://github.com/idvdii/SmartCropper/releases) 下载最新的 `.zip` 压缩包，解压即用。
 
 ### 方式二：源码运行 (推荐开发者)
 如果你熟悉 Python，可以克隆本项目运行：
