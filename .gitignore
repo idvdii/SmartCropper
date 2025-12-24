@@ -10,3 +10,5 @@ trash_bin/*
 trash_bin_save/*
 !set_image/.gitkeep
 !save_image/.gitkeep
+!trash_bin/.gitkeep
+!trash_bin_save/.gitkeep
