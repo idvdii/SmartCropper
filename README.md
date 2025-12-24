@@ -16,11 +16,7 @@
 
 ## 🛠️ 安装与运行 (Installation)
 
-### 方式一：下载整合包 (推荐新手)
 请前往 [Releases 页面](https://github.com/idvdii/SmartCropper/releases) 下载最新的 `.zip` 压缩包，解压即用。
-
-### 方式二：源码运行 (推荐开发者)
-如果你熟悉 Python，可以克隆本项目运行：
 
 1. **安装依赖**
    ```bash
@@ -32,6 +28,7 @@
    ```bash
    python run.py
    ```
+   或者双击`运行.bat`文件启动
 ## 🎮 快速上手指南
 1. **将原始图片放入 *set_image* 文件夹。**
 2. **运行软件，在顶部下拉框选择工作目录。**
